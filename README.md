@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Vawi !  👋
 
 <!--
 **Vawi/Vawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning react and how to use gcp and terraform 
+- 🔭 I’m currently working on easyvoyage new website based on strapi and symfony
